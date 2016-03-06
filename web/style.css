@@ -1,0 +1,127 @@
+
+/*
+Design by Free CSS Templates
+http://www.freecsstemplates.org
+Released for free under a Creative Commons Attribution 2.5 License
+*/
+
+
+a {
+	text-decoration: none;
+	color: #121212;
+}
+
+a:hover {
+    color: red;
+	text-decoration: underline;
+}
+#submit {
+	background: url(images/submit.jpg) no-repeat center ;
+	width:156px;
+	height:36px;
+}
+.submit {
+
+	background:#FFFFFF url("images/submit.jpg") no-repeat left ;
+	font-size:11px;
+	font-weight:bold;
+	width:94px;
+	height:30px;
+}
+.search {
+
+	background:#FFFFFF url("images/download.jpg") no-repeat left ;
+	font-size:11px;
+	font-weight:bold;
+	width:29px;
+	height:24px;
+}
+.update {
+
+	background:#FFFFFF url("images/update.jpg") no-repeat left ;
+	font-size:11px;
+	font-weight:bold;
+	width:90px;
+	height:27px;
+}
+.clear {
+
+	background:#FFFFFF url("images/clear.jpg") no-repeat left ;
+	font-size:11px;
+	font-weight:bold;
+	width:77px;
+	height:31px;
+}
+.paragraping2
+{
+font-family:Verdana, Arial, Helvetica, sans-serif;
+font-size:12px;
+color:black;
+padding:2px 2px 2px 2px;
+text-decoration:none;
+font-weight:normal;
+line-height:1.7em;
+align:justify;
+}
+.paragraping1
+{
+font-family:Verdana, Arial, Helvetica, sans-serif;
+font-size:13px;
+color:block;
+padding:2px 2px 2px 2px;
+text-decoration:none;
+font-weight:bold;
+line-height:1.7em;
+align:justify;
+}
+.paragraping
+{
+font-family:Verdana, Arial, Helvetica, sans-serif;
+font-size:13px;
+color:white;
+padding:2px 2px 2px 2px;
+text-decoration:none;
+font-weight:Normal;
+line-height:1.7em;
+align:justify;
+}
+.input
+{
+font-family:verdana;
+    font-size: 12px;
+    color:red;
+    border: solid 1px #85b1de;
+    width: 200px;
+	height:20px;
+    background:#FFFFFF url("images/user.jpg") no-repeat left;
+	padding-left:40px;
+	
+}
+.input:hover
+{
+font-family:verdana;
+    font-size: 12px;
+    color:green;
+    border: solid 1px #8C8C46;
+	background-color:#E4F1F1;
+}
+.pass
+{
+font-family:verdana;
+    font-size: 12px;
+    color:red;
+    border: solid 1px #85b1de;
+    width: 200px;
+	height:20px;
+    background:#FFFFFF url(images/pass.jpg) no-repeat left ;
+	padding-left:40px;
+	
+}
+.pass:hover
+{
+font-family:verdana;
+    font-size: 12px;
+    color:green;
+    border: solid 1px #8C8C46;
+	background-color:#E4F1F1;
+}
